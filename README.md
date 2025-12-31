@@ -4,7 +4,7 @@ A simple and user-friendly web application to split group expenses fairly, calcu
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Create a group and add members
 - Enter amount paid and purpose for each member
@@ -30,9 +30,9 @@ A simple and user-friendly web application to split group expenses fairly, calcu
 
 ##  How to Run the Project
 
--git clone https://github.com/Shreyasi-16/Bill-Splitter.git
--npm install
--npm run dev
+1.   git clone https://github.com/Shreyasi-16/Bill-Splitter.git
+2.   npm install
+3.   npm run dev
 
 ##  Dependencies
 npm install jspdf jspdf-autotable
