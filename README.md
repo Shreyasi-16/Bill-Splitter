@@ -1,4 +1,4 @@
-# 💸 Bill Splitter Web Application
+# Bill Splitter Web Application
 
 A simple and user-friendly web application to split group expenses fairly, calculate settlements, generate PDF reports, and share bill summaries via WhatsApp.
 
@@ -17,17 +17,24 @@ A simple and user-friendly web application to split group expenses fairly, calcu
 
 ---
 
-## 🛠️ Tech Stack Used
+##  Tech Stack Used
 
 - **React.js** – Frontend UI and state management  
 - **Tailwind CSS** – Modern and responsive styling  
 - **jsPDF & jspdf-autotable** – PDF generation  
 - **WhatsApp Deep Link (`wa.me`)** – Sharing bill summary as text  
 
-> ⚠️ No database is used. All calculations are done on the client side.
+>  No database is used. All calculations are done on the client side.
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
-1. Clone the repository
+-git clone https://github.com/Shreyasi-16/Bill-Splitter.git
+-npm install
+-npm run dev
+
+##  Dependencies
+npm install jspdf jspdf-autotable
+
+   
